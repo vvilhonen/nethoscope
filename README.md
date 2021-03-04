@@ -29,4 +29,5 @@ For using the binary you only need the [npcap installer](https://nmap.org/npcap/
 This experiment was easily implemented building on these two excellent crates:
 
 - [pcap](https://github.com/ebfull/pcap) to capture network traffic
+- [cpal](https://github.com/RustAudio/cpal) to output audio
 

@@ -22,7 +22,7 @@ On debian based systems `libpcap-dev` package should be enough. More information
 
 Windows requires pcap compatible library for which the [npcap](https://nmap.org/npcap/) is the best option. 
 
-For using the binary you only need the [npcap installer](https://nmap.org/npcap/dist/npcap-1.10.exe) and for compiling from source, `Lib/x64/wpcap.lib` file needs to be copied to the project root from the [npcap SDK](https://nmap.org/npcap/dist/npcap-sdk-1.06.zip) before compiling in addition.
+For using [the binary](https://github.com/vvilhonen/nethoscope/releases) you only need the [npcap installer](https://nmap.org/npcap/dist/npcap-1.10.exe) and for compiling from source, `Lib/x64/wpcap.lib` file needs to be copied to the project root from the [npcap SDK](https://nmap.org/npcap/dist/npcap-sdk-1.06.zip), in addition.
 
 ## Credits
 
